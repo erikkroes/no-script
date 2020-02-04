@@ -1,0 +1,23 @@
+{
+  "name": "@erikkroes/no-script",
+  "version": "0.0.1",
+  "description": "The Web Component that works without JavaScript. Send a message to users without JavaScript.",
+  "main": "no-script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikkroes/no-script.git"
+  },
+  "keywords": [
+    "custom element",
+    "web components",
+    "noscript",
+    "no-script",
+    "no javascript"
+  ],
+  "author": "Erik Kroes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erikkroes/no-script/issues"
+  },
+  "homepage": "https://github.com/erikkroes/no-script#readme"
+}
